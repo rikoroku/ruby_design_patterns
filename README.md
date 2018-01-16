@@ -10,7 +10,7 @@
 
 | 名前 | 概要 |
 |:---|:---|
-| [テンプレートメソッド](https://github.com/rikoroku/ruby_design_patterns/template_method) | - |
+| [テンプレートメソッド](https://github.com/rikoroku/ruby_design_patterns/template_method) | 2つ以上のとあるコードでやりたいことがほとんど同一の場合、ある一部だけ変えるときに使う。 |
 | [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/strategy) | - |
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/observer) | - |
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/composite) | - |
