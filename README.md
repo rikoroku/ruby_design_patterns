@@ -1,1 +1,1 @@
-# ruby_design_patterns-
+# ruby_design_patterns
