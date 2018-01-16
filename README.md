@@ -15,8 +15,8 @@
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/observer) | - |
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/composite) | - |
 | [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/iterator) | - |
-| [コマンド](https://github.com/rikoroku/ruby_design_patterns/adapter) | - |
-| [アダプタ](https://github.com/rikoroku/ruby_design_patterns/strategy) | - |
+| [コマンド](https://github.com/rikoroku/ruby_design_patterns/commands) | - |
+| [アダプタ](https://github.com/rikoroku/ruby_design_patterns/adapter) | - |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/proxy) | - |
 | [デコレータ](https://github.com/rikoroku/ruby_design_patterns/decorator) | - |
 | [シングルトン](https://github.com/rikoroku/ruby_design_patterns/singleton) | - |
