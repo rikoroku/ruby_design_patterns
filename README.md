@@ -28,3 +28,9 @@
 * https://github.com/nipe0324/design_patterns_ruby
 * https://github.com/morizyun/ruby_design_pattern_sample
 * http://morizyun.github.io/blog/ruby-design-pattern-matome-mokuzi/
+
+## 実行環境
+```
+$ ruby -v
+ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin15]
+```
