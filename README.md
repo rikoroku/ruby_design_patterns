@@ -11,7 +11,7 @@
 | 名前 | 概要 |
 |:---|:---|
 | [テンプレートメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/template_method) | 2つ以上のとあるコードでやりたいことがほとんど同一の場合、ある一部だけ変えるときに使う。 |
-| [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/tree/master/strategy) | 他クラスに処理「委譲」することにより処理を交換できるようにするもの |
+| [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/tree/master/strategy) | 他クラスに処理を「委譲」することにより、処理を交換できるようにしたもの |
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/tree/master/observer) | - |
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | - |
 | [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | - |
