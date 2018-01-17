@@ -28,8 +28,8 @@ PLAIN_TEXT_FORMATTER = lambda do |context|
     context.text.each { |line| puts line }
 end
 
-html_report = Report.new &HTML_FORMATTER
+html_report = Report.new(&HTML_FORMATTER)
 html_report.output_report
 
-plain_report = Report.new &PLAIN_TEXT_FORMATTER
+plain_report = Report.new(&PLAIN_TEXT_FORMATTER)
 plain_report.output_report
