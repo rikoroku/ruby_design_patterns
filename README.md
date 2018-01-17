@@ -10,19 +10,19 @@
 
 | 名前 | 概要 |
 |:---|:---|
-| [テンプレートメソッド](https://github.com/rikoroku/ruby_design_patterns/template_method) | 2つ以上のとあるコードでやりたいことがほとんど同一の場合、ある一部だけ変えるときに使う。 |
-| [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/strategy) | - |
-| [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/observer) | - |
-| [コンポジット](https://github.com/rikoroku/ruby_design_patterns/composite) | - |
-| [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/iterator) | - |
-| [コマンド](https://github.com/rikoroku/ruby_design_patterns/commands) | - |
-| [アダプタ](https://github.com/rikoroku/ruby_design_patterns/adapter) | - |
-| [プロキシ](https://github.com/rikoroku/ruby_design_patterns/proxy) | - |
-| [デコレータ](https://github.com/rikoroku/ruby_design_patterns/decorator) | - |
-| [シングルトン](https://github.com/rikoroku/ruby_design_patterns/singleton) | - |
-| [ファクトリー](https://github.com/rikoroku/ruby_design_patterns/factory) | - |
-| [ビルダー](https://github.com/rikoroku/ruby_design_patterns/builder) | - |
-| [インタプリタ](https://github.com/rikoroku/ruby_design_patterns/interpreter) | - |
+| [テンプレートメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/template_method) | 2つ以上のとあるコードでやりたいことがほとんど同一の場合、ある一部だけ変えるときに使う。 |
+| [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/tree/master/strategy) | - |
+| [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/tree/master/observer) | - |
+| [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | - |
+| [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | - |
+| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | - |
+| [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | - |
+| [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
+| [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
+| [シングルトン](https://github.com/rikoroku/ruby_design_patterns/tree/master/singleton) | - |
+| [ファクトリー](https://github.com/rikoroku/ruby_design_patterns/tree/master/factory) | - |
+| [ビルダー](https://github.com/rikoroku/ruby_design_patterns/tree/master/builder) | - |
+| [インタプリタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/interpreter) | - |
 
 ## 参考
 * https://github.com/nipe0324/design_patterns_ruby
