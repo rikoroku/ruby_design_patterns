@@ -21,7 +21,7 @@
 | [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
 | [シングルトン](https://github.com/rikoroku/ruby_design_patterns/tree/master/singleton) | - |
 | [アブストラクトファクトリ](https://github.com/rikoroku/ruby_design_patterns/tree/master/abstract_factory) | 矛盾のないオブジェクトの生成を行うためのもの。 |
-| [ファクトリメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/factory_method) | - |
+| [ファクトリメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/factory_method) | 変更/保守がしやすくなるよう、インスタンスの生成と処理を切り離すためのもの |
 | [ビルダー](https://github.com/rikoroku/ruby_design_patterns/tree/master/builder) | - |
 | [インタプリタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/interpreter) | - |
 
