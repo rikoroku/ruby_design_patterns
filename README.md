@@ -15,7 +15,7 @@
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/tree/master/observer) | - |
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | - |
 | [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | - |
-| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | - |
+| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | 再帰の構造をクラスで構築できるもの。 |
 | [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | - |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
 | [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
