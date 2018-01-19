@@ -13,9 +13,9 @@
 | [テンプレートメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/template_method) | 2つ以上のとあるコードでやりたいことがほとんど同一の場合、ある一部だけ変えるときに使う。 |
 | [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/tree/master/strategy) | 他クラスに処理を「委譲」することにより、処理を切り替えて使用できるようにしたもの |
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/tree/master/observer) | - |
-| [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | - |
+| [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | 再帰の構造をクラスで構築できるもの。 |
 | [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | - |
-| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | 再帰の構造をクラスで構築できるもの。 |
+| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | - |
 | [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | - |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
 | [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
