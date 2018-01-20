@@ -45,7 +45,7 @@ class BlogIterator
 
   def next_article
     article = self.has_next? ? @blog.get_article_at(@index) : nil
-    @index = @index + 1
+    @index += 1
     article
   end
 end
@@ -72,6 +72,10 @@ class Account
   def initialize name, balance
     @name = name
     @balance = balance
+  end
+
+  def <=> other
+    @balance <=> other.balance
   end
 end
 
