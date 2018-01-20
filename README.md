@@ -15,7 +15,7 @@
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/tree/master/observer) | オブジェクトの変化を他のオブジェクトに通知するためのもの |
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | 再帰の構造をクラスで構築できるもの。 |
 | [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | 要素の集まりを持つオブジェクトの各要素に、順番にアクセスする方法を提供するためのもの。 |
-| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | - |
+| [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | 内部の処理を知らなくてもコマンドを呼び出せば、正常に処理を行えるようにするためのもの |
 | [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | - |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
 | [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
