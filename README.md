@@ -14,7 +14,7 @@
 | [ストラテジ](https://github.com/rikoroku/ruby_design_patterns/tree/master/strategy) | 他クラスに処理を「委譲」することにより、処理を切り替えて使用できるようにしたもの |
 | [オブザーバ](https://github.com/rikoroku/ruby_design_patterns/tree/master/observer) | オブジェクトの変化を他のオブジェクトに通知するためのもの |
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | 再帰の構造をクラスで構築できるもの。 |
-| [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | - |
+| [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | 要素の集まりを持つオブジェクトの各要素に、順番にアクセスする方法を提供するためのもの。 |
 | [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | - |
 | [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | - |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
