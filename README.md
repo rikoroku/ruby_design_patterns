@@ -23,7 +23,7 @@
 | [アブストラクトファクトリ](https://github.com/rikoroku/ruby_design_patterns/tree/master/abstract_factory) | 矛盾のないオブジェクトの生成を行うためのもの。 |
 | [ファクトリメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/factory_method) | 変更/保守がしやすくなるよう、インスタンスの生成と処理を切り離すためのもの |
 | [ビルダー](https://github.com/rikoroku/ruby_design_patterns/tree/master/builder) | - |
-| [インタプリタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/interpreter) | - |
+| [インタプリタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/interpreter) | 一連の処理を一つの言語のように扱えるようにしたもの |
 
 ## 参考
 * https://github.com/nipe0324/design_patterns_ruby
