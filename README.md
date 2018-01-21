@@ -16,7 +16,7 @@
 | [コンポジット](https://github.com/rikoroku/ruby_design_patterns/tree/master/composite) | 再帰の構造をクラスで構築できるもの。 |
 | [イーテレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/iterator) | 要素の集まりを持つオブジェクトの各要素に、順番にアクセスする方法を提供するためのもの。 |
 | [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | 内部の処理を知らなくてもコマンドを呼び出せば、正常に処理を行えるようにするためのもの |
-| [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | - |
+| [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | 必要なインターフェイスと既存のオブジェクトの間の違いを吸収するためのもの |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
 | [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
 | [シングルトン](https://github.com/rikoroku/ruby_design_patterns/tree/master/singleton) | オブジェクトを生成する際、システム内での現存数を一つのみに限定したい場合に用いる |
