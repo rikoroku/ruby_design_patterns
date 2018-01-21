@@ -52,7 +52,7 @@ p.print_strong
 # 特異メソッドを使用した場合
 
 # Target
-class Printer
+class PrinterSingularMethod
   def initialize obj
     @obj = obj
   end
@@ -67,7 +67,7 @@ class Printer
 end
 
 # Adaptee
-class OldPrinter
+class OldPrinterSingularMethod
   def initialize string
     @string = string.dup
   end
@@ -82,7 +82,7 @@ class OldPrinter
 end
 
 # Adapterの役割を特異メソッドにて実装
-text = OldPrinter.new "HELLO"
+text = OldPrinterSingularMethod.new "HELLO"
 def text.print_weak
   show_with_paren
 end
@@ -90,6 +90,6 @@ def text.print_strong
   show_with_aster
 end
 
-p = Printer.new text
+p = PrinterSingularMethod.new text
 p.print_weak
 p.print_strong
