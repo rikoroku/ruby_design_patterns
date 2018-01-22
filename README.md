@@ -18,7 +18,7 @@
 | [コマンド](https://github.com/rikoroku/ruby_design_patterns/tree/master/commands) | 内部の処理を知らなくてもコマンドを呼び出せば、正常に処理を行えるようにするためのもの |
 | [アダプタ](https://github.com/rikoroku/ruby_design_patterns/tree/master/adapter) | 必要なインターフェイスと既存のオブジェクトの間の違いを吸収するためのもの |
 | [プロキシ](https://github.com/rikoroku/ruby_design_patterns/tree/master/proxy) | - |
-| [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | - |
+| [デコレータ](https://github.com/rikoroku/ruby_design_patterns/tree/master/decorator) | 既存のオブジェクトの中身を変更することなく機能を変更,追加できる。(レイヤ状に) |
 | [シングルトン](https://github.com/rikoroku/ruby_design_patterns/tree/master/singleton) | オブジェクトを生成する際、システム内での現存数を一つのみに限定したい場合に用いる |
 | [アブストラクトファクトリ](https://github.com/rikoroku/ruby_design_patterns/tree/master/abstract_factory) | 矛盾のないオブジェクトの生成を行うためのもの。 |
 | [ファクトリメソッド](https://github.com/rikoroku/ruby_design_patterns/tree/master/factory_method) | 変更/保守がしやすくなるよう、インスタンスの生成と処理を切り離すためのもの |
